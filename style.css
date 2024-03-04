@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+.side_2{
+  width:500px;
+  padding-right: 10px;
+
+}
+.form_control{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    
+}
+.h3_1{
+    margin-left: 5px;
+    font-family: 'Oswald', sans-serif;
+}
+.maintxt{
+    padding: 25px;
+    font-weight: 750;
+    font-family: 'Oswald', sans-serif;
+}
+.result1{
+    margin-top: 400px;
+    padding: 25px;
+}
+
+
+ .list-unstyled{
+    margin-top: 40px;
+ }
+ .list-unstyled p{
+    margin-top: 30px;
+ }
+ 
